@@ -105,7 +105,7 @@
 <li>Recruit more Germany customers since they have higher salary and higher balance. However, they also have a high churn rate, so more research should be done how to keep them longer as customers. </li>
 </ul>
 <h3>Tableau Dashboard</h3>
-<p>Here is the <a href=”https://public.tableau.com/app/profile/kun.bi/viz/bank_dashboard_17403399426080/Customer_Churn_Dashboard”>link </a>of dashboard to view the churn rate across different features and help to identify high value customers filtered by countries. </p>
+<p>Here is the <a href="https://public.tableau.com/app/profile/kun.bi/viz/bank_dashboard_17403399426080/Customer_Churn_Dashboard">link </a>of dashboard to view the churn rate across different features and help to identify high value customers filtered by countries. </p>
 
 ![dashboard](https://github.com/user-attachments/assets/bd2453d9-a733-4244-9ebb-b8ec9a91cd34)
 
